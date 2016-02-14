@@ -204,6 +204,9 @@
 
 	.menu {
 		display: block;
+		background-color: transparent;
+		border: none;
+		padding-left: 20px;
 	}
 
 	nav {
